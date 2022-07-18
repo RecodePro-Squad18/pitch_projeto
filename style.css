@@ -1,0 +1,32 @@
+body{
+    margin: 20px 20%;
+    padding: 0;
+    width: 60%;
+    
+}
+header img{
+    width: 100%;  
+}
+.nome_site{
+    margin-top: 2%;
+    background-color: rgb(212, 158, 56);
+    height: 70px;
+    width: 100%;
+    text-align: center;
+}
+.nome_site h2{
+    color: beige;
+    padding: 20px
+}
+.descricao_site{
+    border: 1px solid rgb(90, 88, 56);
+    padding: 0 3px;    
+}
+.brmodelo{
+    border: 1px solid rgb(90, 88, 56);
+    padding: 0 3px; 
+}
+footer{
+    background-color: rgb(212, 158, 56);
+    text-align: center;
+}
